@@ -11,7 +11,7 @@ DOTFILES_SCRIPTS="$DOTFILES_HOME/scripts"
 
 cat "$HOME/resources/ascii-art/dog"
 echo "I loaded a profile just the way you like it..."
-echo ""
+echo "Hi Dilshan"
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
