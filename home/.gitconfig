@@ -55,3 +55,6 @@
 [include]
 	# Allow overrides, this is where you would save your name and email
 	path = ~/.gitconfig.override
+[user]
+	name = Dilshan
+	email = dgunasekara@dhmedia.com.au
